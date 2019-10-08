@@ -86,4 +86,8 @@ return (a/b);
 처음에는 코드도 평소 보던 것과 달라 생소하고 익숙하지 않아 고생도 하였지만 점점 명령어의 뜻을 이해해가면서 수월하게 할 수 있었습니다.
 내일이 돼어도 까먹지 않도록 집에 돌아가서도 반복하여 더욱 노력하도록 하겠습니다.
 
+9. 결과
+
+https://github.com/qkrgudals1030/cpp.report/blob/master/cmd%EA%B2%B0%EA%B3%BC.PNG
+
 
